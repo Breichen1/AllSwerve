@@ -1,5 +1,5 @@
 
-# BaseFalconSwerve </br>
+# AllSwerve - a conceptual NEO Swerve Base with NavX Gyro Mapping </br>
 
 **Sample Swerve code based off of the 364 Falcon Swerve base and 3512 SwerveBot for a Neo/NavX configuration (More configs to be added)** </br>
 This code was designed with Swerve Drive Specialties MK3, MK4, and MK4i style modules in mind, but should be easily adaptable to other styles of modules.</br>
